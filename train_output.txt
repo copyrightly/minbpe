@@ -1,4 +1,4 @@
-(base) luwei@luwei-mbp minbpe % python train.py
+run with `python train.py`
 merge 1/256: (101, 32) -> 256 (b'e ') had 2981 occurrences
 merge 2/256: (44, 32) -> 257 (b', ') had 2961 occurrences
 merge 3/256: (100, 32) -> 258 (b'd ') had 2617 occurrences

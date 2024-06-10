@@ -1,4 +1,4 @@
-# match this
+# run with `python compare_RegexTokenizer_and_GPT4.py`
 import os
 import tiktoken
 from minbpe import RegexTokenizer, GPT4Tokenizer
