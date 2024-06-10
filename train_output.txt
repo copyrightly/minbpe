@@ -525,3 +525,5 @@ original encode output:
 
 new encode output:
 [67, 364, 273, 112, 385, 116, 256, 351, 275, 87, 105, 107, 105, 112, 101, 436, 338, 271, 499, 397]
+
+Note that `my_encode` function gives wrong result compared to the original encode function, although it's much faster
